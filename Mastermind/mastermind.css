@@ -1,0 +1,37 @@
+h1{
+	text-decoration: underline;
+	color : red;
+	font-family: 'Oswald', sans-serif;
+	size: 100px;
+}
+
+p{
+	line-height: 2px;
+	margin-left: 100px;
+}
+
+button{
+
+	width: 200px;
+
+}
+div {
+	text-align: center;
+}
+
+table{
+	margin-right: 500px;
+	width : 200px;
+	float: right;
+}
+
+input{
+	width: 250px;
+}
+
+caption{
+
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+}
